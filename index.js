@@ -7,7 +7,7 @@ function updateObjectWithKeyAndValue(object, key, value) {
   return recipes ;
 }
 
-function destructivelyUpdateObjectWithKeyAndValue(object, prop, value) {
+function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
 
   return recipes;
 }
