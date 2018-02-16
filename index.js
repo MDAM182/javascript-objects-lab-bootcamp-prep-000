@@ -1,1 +1,1 @@
-var recipes = {} ;
+const object = "recipes" ;
