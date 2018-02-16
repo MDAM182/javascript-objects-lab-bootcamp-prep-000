@@ -20,5 +20,6 @@ return Object.assign;
 }
 
 function destructivelyDeleteFromObjectByKey(object, key){
+  delete object.prop;
   return object;
 }
