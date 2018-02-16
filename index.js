@@ -12,4 +12,5 @@ object.prop = "1";
 object.prop2 = '2';
   return object;
 }
-function 
+function deleteFromObjectByKey(object, key) { 
+} 
